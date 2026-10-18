@@ -8,10 +8,10 @@ Based in Munich, open to full-time AI engineering roles in Munich and Warsaw. La
 
 | Project | What it is |
 |---|---|
-| [gazefollowerthesis](https://github.com/JanAulichTum/gazefollowerthesis) | My master's thesis: a browser-based webcam eye-tracking study platform (Python, Flask) with calibration and accuracy validation, plus an AI-feedback pipeline using a pinned Gemini model with every request logged, and a human-vs-LLM agreement study. |
-| [Safety-Tax](https://github.com/JanAulichTum/Safety-Tax) | A TUM team project built on the code of the paper "Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable". We compared aligned and derestricted gpt-oss-20b on reasoning and harmful-output tasks. |
-| [texpad-mobile](https://github.com/JanAulichTum/texpad-mobile) | A phone-sized LaTeX editor (PWA): edit files in a GitHub repo, push from your phone, and compile the PDF in the cloud with GitHub Actions. |
-| [texpad-latex](https://github.com/JanAulichTum/texpad-latex) | A TUM thesis LaTeX template with a small local live-preview editor (Python). |
+| [gazefollowerthesis](https://github.com/JanAulich/gazefollowerthesis) | My master's thesis: a browser-based webcam eye-tracking study platform (Python, Flask) with calibration and accuracy validation, plus an AI-feedback pipeline using a pinned Gemini model with every request logged, and a human-vs-LLM agreement study. |
+| [Safety-Tax](https://github.com/JanAulich/Safety-Tax) | A TUM team project built on the code of the paper "Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable". We compared aligned and derestricted gpt-oss-20b on reasoning and harmful-output tasks. |
+| [texpad-mobile](https://github.com/JanAulich/texpad-mobile) | A phone-sized LaTeX editor (PWA): edit files in a GitHub repo, push from your phone, and compile the PDF in the cloud with GitHub Actions. |
+| [texpad-latex](https://github.com/JanAulich/texpad-latex) | A TUM thesis LaTeX template with a small local live-preview editor (Python). |
 
 ## Background
 
